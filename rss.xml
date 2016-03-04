@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BajandoFino]]></title>
-        <description><![CDATA[BajandoFino]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Bajando Fino - Orquesta de Merengue y Musica Tropical]]></title>
+        <description><![CDATA[Bajando Fino - Orquesta de Merengue y Musica Tropical]]></description>
+        <link>https://thegrid.ai/bajandofino/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:42:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 23:07:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bajandofino/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dcbbe47-a64f-4881-8492-478e770abac4.jpg">]]></description>
+            <link>https://thegrid.ai/bajandofino/c6ab2b22-dff6-4df6-b67d-9dd73dc50a2a/index.html</link>
+            <guid isPermaLink="false">c6ab2b22-dff6-4df6-b67d-9dd73dc50a2a</guid>
+            <pubDate>Fri, 04 Mar 2016 23:06:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/596367fb-d520-4ec0-bd36-462477b30941.png">]]></description>
-            <link>undefined748a3800-814c-44fc-95ca-aa44f2faff0d/index.html</link>
+            <link>https://thegrid.ai/bajandofino/748a3800-814c-44fc-95ca-aa44f2faff0d/index.html</link>
             <guid isPermaLink="false">748a3800-814c-44fc-95ca-aa44f2faff0d</guid>
             <pubDate>Fri, 04 Mar 2016 22:42:22 GMT</pubDate>
         </item>
