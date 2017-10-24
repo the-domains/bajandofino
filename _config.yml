@@ -1,29 +1,45 @@
-name: BajandoFino
-favicon: null
-layout_spectrum: 0.45174008095636964
-typography_spectrum: 0.6559706323314458
-title: Bajando Fino - Orquesta de Merengue y Musica Tropical
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.02656649868004024
+typography_spectrum: 0.005441012559458613
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.9485985322389752
+  lightness: 0.13579557556658983
+  saturation: 0.5179722227621824
+  rhythmicContrast: 0.8488539266400039
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010216'
-    - '#fffdff'
-    - '#b77400'
-    - '#ff0e7d'
-    - '#ffc100'
-  brandStrength: 0.625
-  lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.5
-purpose: []
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: BajandoFino
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9699efc6-f71b-40ae-b0b4-1bd55b5cb175.png
+title: Bajando Fino
+description: Merengue
+purpose:
+  - type: contact
+    url: 'mailto:gtorres@go-latino.com'
+    label: Booking
+  - type: external
+    url: 'http://www.cdbaby.com/Artist/XavieryBajandoFino'
+    label: Music Store
+content: []
+github: true
+author:
+  name: Geovanny Torres
+  email: gtorres@actionletter.com
+  url: 'http://www.golatinorecords.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/657ade5e-3e1b-44ef-b10a-f569d4ec0917.png
