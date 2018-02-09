@@ -319,7 +319,6 @@ content:
         http://www.cdbaby.com/cd/xavierybajandofinoxbf Una noche mas, marca el
         comienzo de una aventura musical llena de ritmo, lirica y fusion de
         ritmos para Xavier Bajando Fino.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=zXOPojhYEwc&feature=applinks'
@@ -361,6 +360,31 @@ content:
       '@context': 'http://schema.org'
       isBasedOnUrl: 'https://www.youtube.com/watch?v=zXOPojhYEwc'
       title: UNA NOCHE MAS - Bajando Fino - Raw Video "Unofficial Video"
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4799aeed-0ade-4745-8fdc-d954d00287ad.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4799aeed-0ade-4745-8fdc-d954d00287ad.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
